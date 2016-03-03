@@ -1,2 +1,5 @@
 data/resources/tweets.json
+data/resources/tweets_2.json
+data/resources/tweets_3.json
+data/resources/tweets_4.json
 core/TweetCollector.pyc
